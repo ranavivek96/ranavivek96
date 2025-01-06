@@ -1,6 +1,16 @@
-## Hi there 👋
+# Vivek Rana
+I'm Vivek Rana, a Data Analyst from India with expertise in collecting, processing, and analyzing complex datasets to extract meaningful insights. I enjoy learning new programming languages and frameworks such as React.
+
+## Skills and Experience
+* 💻 HTML, CSS, JavaScript
+* 📊 Business Excel, Power Queary
+* 📈 PowerBI
+* 🐍 Python
+* 📝 MySQL
 
 <!--
+⚛ React
+## Hi there 👋
 **ranavivek96/ranavivek96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
