@@ -1,3 +1,5 @@
+![Design and Development]()
+
 # Vivek Rana
 I'm Vivek Rana, a Data Analyst from India with expertise in collecting, processing, and analyzing complex datasets to extract meaningful insights. I enjoy learning new programming languages and frameworks such as React.
 
