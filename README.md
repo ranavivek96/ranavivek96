@@ -1,4 +1,4 @@
-![Design and Development]()
+![Design and Development](https://github.com/ranavivek96/ranavivek96/blob/main/Cover.png)
 
 # Vivek Rana
 I'm Vivek Rana, a Data Analyst from India with expertise in collecting, processing, and analyzing complex datasets to extract meaningful insights. I enjoy learning new programming languages and frameworks such as React.
